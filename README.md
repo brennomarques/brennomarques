@@ -38,13 +38,15 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 <br><br>
 ## Aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max-width:100%;"></img>
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max-width:100%;"></img></a>
 
 <br><br>
 ## Minhas outras habilidades
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img>
+<a href="https://www.electronjs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img></a>
 
 <br><br>
 ## Área de trabalho 
