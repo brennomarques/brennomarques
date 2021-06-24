@@ -1,16 +1,79 @@
-### Hi there 👋
+<img align="right" width="350" height="350" src="public/service.svg">
 
-<!--
-**brennomarques/brennomarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Eu sou Brenno marques
+
+- Eu moro em: brasil :, Centro-Oeste: óculos de sol :: nascer do sol:
+
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
+- -Profissional dinâmico sempre em busca de conhecimento e novas competências.
+- Ótimo relacionamento interpessoal.
+- Trabalho em equipe.
+- Foco na qualidade.
+- Experiência do usuário.
+
+<br><br>
+
+### Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/brml/" target="_blank">
+<img  alt="Brenno linkedin" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width: 100%;">
+</a>
+<a href="https://www.instagram.com/brenno.ml/" target="_blank">
+<img  alt="Brenno instagram" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width: 100%;">
+</a>
+
+<br><br>
+
+## Minhas habilidades
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
+
+<br><br>
+## Aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max-width:100%;"></img>
+
+<br><br>
+## Minhas outras habilidades
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img>
+
+<br><br>
+## Área de trabalho 
+<a href="https://github.com/brennomarques/workspace/blob/master/Ubuntu.md" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="max-width:100%;"></img>
+</a>
+<a href="https://github.com/brennomarques/workspace/blob/master/VSCode.md" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width:100%;"></img>
+</a>
+<a href="https://github.com/brennomarques/workspace/blob/master/Gerar%20chave%20ssh%20para%20o%20git.md" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="vscode" width="40" height="40" style="max-width:100%;"></img>
+</a>
+
+<br><br><br>
+
+*NOTA: Os principais idiomas não indicam meu nível de habilidade ou algo parecido, é uma métrica do github de quais idiomas eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<br>
+
+<div align="left">
+    <a style="margin:2px;" href="https://github.com/brennomarques/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Brenno's github stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brennomarques&layout=compact&theme=material-palenight" />
+    </a>
+</div>
+
+
