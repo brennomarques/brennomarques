@@ -6,10 +6,8 @@
 
 ## Eu sou Brenno marques
 
-- Eu moro em: brasil :, Centro-Oeste: óculos de sol :: nascer do sol:
-
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
-- -Profissional dinâmico sempre em busca de conhecimento e novas competências.
+- Profissional dinâmico sempre em busca de conhecimento e novas competências.
 - Ótimo relacionamento interpessoal.
 - Trabalho em equipe.
 - Foco na qualidade.
