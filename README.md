@@ -47,6 +47,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
 <a href="https://www.electronjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img></a>
+<a href="https://www.postgresql.org//" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="max-width:100%;"></img></a>
 
 <br><br>
 ## Área de trabalho 
