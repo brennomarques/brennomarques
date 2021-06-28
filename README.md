@@ -70,12 +70,10 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 <div align="left">
     <a style="margin:2px;" href="https://github.com/brennomarques/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Brenno's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" alt="Brenno's github stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brennomarques&layout=compact&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomarques&layout=compact&theme=algolia" />
     </a>
 </div>
-
-
