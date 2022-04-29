@@ -68,12 +68,12 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 <br>
 
-<div align="left">
-    <a style="margin:2px;" href="https://github.com/brennomarques/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" alt="Brenno's github stats" />
+<div style="display: flex; flex-direction: row; gap: 5px; justify-content: space-between; align-items: center;">
+    <a href="https://github.com/brennomarques/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" alt="Brenno's github stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomarques&layout=compact&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomarques&layout=compact&theme=algolia" />
     </a>
 </div>
