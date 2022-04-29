@@ -68,7 +68,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 <br>
 
-<div style="display: flex; flex-direction: row; gap: 5px; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: space-between; align-items: center;">
     <a href="https://github.com/brennomarques/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=brennomarques&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" alt="Brenno's github stats" />
     </a>
