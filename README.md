@@ -51,6 +51,10 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img></a>
 <a href="https://www.postgresql.org//" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="max-width:100%;"></img></a>
+<a href="https://nodejs.org/en/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40" style="max-width:100%;"></img></a>
+<a href="https://laravel.com/" target="_blank">
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" alt="laravel" width="40" height="40" style="max-width:100%;"></img></a> 
 
 <br><br>
 ## Área de trabalho 
