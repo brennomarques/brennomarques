@@ -43,7 +43,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 <br><br>
 ## Minhas outras habilidades
+<a href="https://angular.io/" target="_blank">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
+<a href="https://vuejs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
 <a href="https://www.electronjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width:100%;"></img></a>
