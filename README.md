@@ -4,7 +4,7 @@
 
 <br>
 
-## Eu sou Brenno marques
+## Eu sou Brenno Marques
 
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 - Profissional dinâmico sempre em busca de conhecimento e novas competências.
