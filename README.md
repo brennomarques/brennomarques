@@ -7,6 +7,8 @@
 ## Eu sou Brenno Marques
 
 Sou motivado pela resolução de problemas e pelo aprendizado contínuo, sempre aberto a novos desafios e pronto para enfrentar as mudanças, meu objetivo é desenvolver soluções sólidas e confiáveis que agreguem valor de maneira consistente. 
+Ao longo da minha carreira, participei ativamente de projetos voltados para a modernização e aprimoramento de sistemas legados fundamentais para as operações empresariais.
+
 - Profissional dinâmico sempre em busca de conhecimento e novas competências.
 - Ótimo relacionamento interpessoal.
 - Trabalho em equipe.
