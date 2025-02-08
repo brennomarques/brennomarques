@@ -46,7 +46,7 @@ Ao longo da minha carreira, participei ativamente de projetos voltados para a mo
 <br><br>
 ## Minhas outras habilidades
 <a href="https://angular.io/" target="_blank">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="angular" width="40" height="40" style="max-width:100%;"></img>
 <a href="https://vuejs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" style="max-width:100%;"></img>
 <a href="https://www.electronjs.org/" target="_blank">
@@ -56,7 +56,7 @@ Ao longo da minha carreira, participei ativamente de projetos voltados para a mo
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40" style="max-width:100%;"></img></a>
 <a href="https://laravel.com/" target="_blank">
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png" alt="laravel" width="40" height="40" style="max-width:100%;"></img></a> 
+<img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width:100%;"></img></a> 
 
 <br><br>
 ## Área de trabalho 
