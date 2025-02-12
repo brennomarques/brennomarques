@@ -1,12 +1,7 @@
-<img align="right" width="350" height="350" src="public/service.svg">
+<h1 align="center">Oi 👋, eu sou Brenno Marques</h1>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
-### Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-<br>
-
-## Eu sou Brenno Marques
-
-Sou motivado pela resolução de problemas e pelo aprendizado contínuo, meu objetivo é desenvolver soluções sólidas e confiáveis que agreguem valor de maneira consistente.<br>
+Sou motivado pela resolução de problemas e pelo aprendizado contínuo, meu objetivo é desenvolver soluções sólidas e confiáveis que agreguem valor de maneira consistente.
 Ao longo da minha carreira, participei ativamente de projetos voltados para a modernização e aprimoramento de sistemas legados fundamentais para as operações empresariais.
 
 - Profissional dinâmico sempre em busca de conhecimento e novas competências.
@@ -32,7 +27,7 @@ Ao longo da minha carreira, participei ativamente de projetos voltados para a mo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
@@ -63,9 +58,11 @@ Ao longo da minha carreira, participei ativamente de projetos voltados para a mo
 <a href="https://github.com/brennomarques/workspace/blob/master/Ubuntu.md" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" style="max-width:100%;"></img>
 </a>
+
 <a href="https://github.com/brennomarques/workspace/blob/master/VSCode.md" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width:100%;"></img>
 </a>
+
 <a href="https://github.com/brennomarques/workspace/blob/master/Gerar%20chave%20ssh%20para%20o%20git.md" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" alt="vscode" width="40" height="40" style="max-width:100%;"></img>
 </a>
